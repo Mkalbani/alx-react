@@ -1,0 +1,12 @@
+{
+  "name": "0x07-react_redux_action_creator_normalizr",
+  "version": "1.0.0",
+  "description": "0x07-react_redux_action_creator_normalizr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx babel-node"
+  },
+  "author": "mkothm",
+  "license": "ISC"
+}
