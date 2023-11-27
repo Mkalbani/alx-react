@@ -1,0 +1,11 @@
+{
+  "name": "0x08-react_redux_reducer_selector",
+  "version": "1.0.0",
+  "description": "0x08-react_redux_reducer_selector",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
